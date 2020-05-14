@@ -8,7 +8,7 @@ public class HomeWork4 {
     public static void main(String[] args) {
 
         String[] arr = {"john", "michael","dora","philip","ilena","palena","fahry"};
-        String nameToSearch = "palena";
+        String nameToSearch = "philip";
         int[] numbers = {45,22,11,65,189,91,100,81};
         int[] scores = {90,89,191,100,81};
         String[] names = {"Happy","Peace","Jesse","Kaitlin","Lucky"};
